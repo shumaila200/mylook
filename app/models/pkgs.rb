@@ -1,0 +1,3 @@
+class Pkgs <ApplicationRecord
+
+end

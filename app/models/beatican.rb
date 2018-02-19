@@ -1,0 +1,3 @@
+class Beatican <ApplicationRecord
+
+end
